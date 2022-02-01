@@ -1,0 +1,23 @@
+{
+  "name": "k8s-web-hello",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marshallnw18/k8s-web-hello.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marshallnw18/k8s-web-hello/issues"
+  },
+  "homepage": "https://github.com/marshallnw18/k8s-web-hello#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
