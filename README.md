@@ -7,7 +7,7 @@ The web app packaged with this project is built with node.js and just provides a
 ## Running the application
 To run the application, first clone the repository:
 
-`git clone `
+`git clone https://github.com/marshallnw18/k8s-web-hello.git`
 
 Then start Minikube and navigate to the k8s-web-hello directory. Once inside the directory, run:
 
